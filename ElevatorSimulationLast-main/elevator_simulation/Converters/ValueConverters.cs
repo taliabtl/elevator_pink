@@ -1,0 +1,124 @@
+using System.Globalization;
+using System.Windows;
+using System.Windows.Data;
+
+namespace elevator_simulation.Converters
+{
+    public class FloorToPositionConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            if (value is int floor)
+            {
+                // Tum katlar icin tam pozisyon
+                return -(floor * 55);
+            }
+            return 0;
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+    public class FloorListPositionConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            // ScrollViewer (ScrollToFloor) zaten dogru kata scroll ediyor.
+            // Canvas'i ayrica kaydirmak yuksek katlarda bos alan olusturuyordu.
+            return 0.0;
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+    public class BoolToVisibilityConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            if (value is bool boolValue)
+            {
+                return boolValue ? Visibility.Visible : Visibility.Collapsed;
+            }
+            return Visibility.Collapsed;
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+    public class PassengerStatusConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            if (value is bool hasPassenger)
+            {
+                return hasPassenger ? "Iceride" : "Yok";
+            }
+            return "Yok";
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+    public class FloorEqualityConverter : IMultiValueConverter
+    {
+        public object Convert(object[] values, Type targetType, object parameter, CultureInfo culture)
+        {
+            if (values.Length == 2 && values[0] is int buttonFloor && values[1] is int currentFloor)
+            {
+                return buttonFloor == currentFloor;
+            }
+            return false;
+        }
+
+        public object[] ConvertBack(object value, Type[] targetTypes, object parameter, CultureInfo culture)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
+    /// <summary>
+    /// Kapı açıklık miktarını (0.0-1.0) TranslateX değerine dönüştürür
+    /// Sol kapı için: Negatif yönde kayar (sola)
+    /// Sağ kapı için: Pozitif yönde kayar (sağa)
+    /// </summary>
+    public class DoorPositionConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            if (value is double openAmount && parameter is string direction)
+            {
+                // Maksimum kayma mesafesi (100 piksel - kapının genişliğinin yarısı)
+                const double maxOffset = 100;
+
+                if (direction == "Left")
+                {
+                    // Sol kapı: Sola kay (negatif)
+                    return -(openAmount * maxOffset);
+                }
+                else if (direction == "Right")
+                {
+                    // Sağ kapı: Sağa kay (pozitif)
+                    return (openAmount * maxOffset);
+                }
+            }
+            return 0.0;
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}

@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\elevator_last2\\ElevatorSimulationLast-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\.copilot\\plans\\plan-performance-dashboard-ekleme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5C6072-9068-4805-9ABE-D785B86B0749}|elevator_simulation\\elevator_simulation.csproj|c:\\users\\dell\\source\\repos\\elevator_last2\\elevatorsimulationlast-main\\elevator_simulation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB5C6072-9068-4805-9ABE-D785B86B0749}|elevator_simulation\\elevator_simulation.csproj|solutionrelative:elevator_simulation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5C6072-9068-4805-9ABE-D785B86B0749}|elevator_simulation\\elevator_simulation.csproj|c:\\users\\dell\\source\\repos\\elevator_last2\\elevatorsimulationlast-main\\elevator_simulation\\views\\performancedashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB5C6072-9068-4805-9ABE-D785B86B0749}|elevator_simulation\\elevator_simulation.csproj|solutionrelative:elevator_simulation\\views\\performancedashboardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5C6072-9068-4805-9ABE-D785B86B0749}|elevator_simulation\\elevator_simulation.csproj|c:\\users\\dell\\source\\repos\\elevator_last2\\elevatorsimulationlast-main\\elevator_simulation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5C6072-9068-4805-9ABE-D785B86B0749}|elevator_simulation\\elevator_simulation.csproj|solutionrelative:elevator_simulation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5C6072-9068-4805-9ABE-D785B86B0749}|elevator_simulation\\elevator_simulation.csproj|c:\\users\\dell\\source\\repos\\elevator_last2\\elevatorsimulationlast-main\\elevator_simulation\\elevator_simulation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB5C6072-9068-4805-9ABE-D785B86B0749}|elevator_simulation\\elevator_simulation.csproj|solutionrelative:elevator_simulation\\elevator_simulation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5C6072-9068-4805-9ABE-D785B86B0749}|elevator_simulation\\elevator_simulation.csproj|c:\\users\\dell\\source\\repos\\elevator_last2\\elevatorsimulationlast-main\\elevator_simulation\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5C6072-9068-4805-9ABE-D785B86B0749}|elevator_simulation\\elevator_simulation.csproj|solutionrelative:elevator_simulation\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5C6072-9068-4805-9ABE-D785B86B0749}|elevator_simulation\\elevator_simulation.csproj|c:\\users\\dell\\source\\repos\\elevator_last2\\elevatorsimulationlast-main\\elevator_simulation\\models\\performancemetrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5C6072-9068-4805-9ABE-D785B86B0749}|elevator_simulation\\elevator_simulation.csproj|solutionrelative:elevator_simulation\\models\\performancemetrics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5C6072-9068-4805-9ABE-D785B86B0749}|elevator_simulation\\elevator_simulation.csproj|c:\\users\\dell\\source\\repos\\elevator_last2\\elevatorsimulationlast-main\\elevator_simulation\\services\\mldatacollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5C6072-9068-4805-9ABE-D785B86B0749}|elevator_simulation\\elevator_simulation.csproj|solutionrelative:elevator_simulation\\services\\mldatacollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5C6072-9068-4805-9ABE-D785B86B0749}|elevator_simulation\\elevator_simulation.csproj|c:\\users\\dell\\source\\repos\\elevator_last2\\elevatorsimulationlast-main\\elevator_simulation\\views\\performancedashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5C6072-9068-4805-9ABE-D785B86B0749}|elevator_simulation\\elevator_simulation.csproj|solutionrelative:elevator_simulation\\views\\performancedashboardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB5C6072-9068-4805-9ABE-D785B86B0749}|elevator_simulation\\elevator_simulation.csproj|c:\\users\\dell\\source\\repos\\elevator_last2\\elevatorsimulationlast-main\\elevator_simulation\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB5C6072-9068-4805-9ABE-D785B86B0749}|elevator_simulation\\elevator_simulation.csproj|solutionrelative:elevator_simulation\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MLDataCollector.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\elevator_last2\\ElevatorSimulationLast-main\\elevator_simulation\\Services\\MLDataCollector.cs",
+              "RelativeDocumentMoniker": "elevator_simulation\\Services\\MLDataCollector.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\elevator_last2\\ElevatorSimulationLast-main\\elevator_simulation\\Services\\MLDataCollector.cs",
+              "RelativeToolTip": "elevator_simulation\\Services\\MLDataCollector.cs",
+              "ViewState": "AgIAAFYBAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T19:59:46.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "plan-performance-dashboard-ekleme.md [\u00D6nizleme]",
+              "DocumentMoniker": "C:\\Users\\DELL\\.copilot\\plans\\plan-performance-dashboard-ekleme.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.copilot\\plans\\plan-performance-dashboard-ekleme.md",
+              "ToolTip": "C:\\Users\\DELL\\.copilot\\plans\\plan-performance-dashboard-ekleme.md [\u00D6nizleme]",
+              "RelativeToolTip": "..\\..\\..\\..\\.copilot\\plans\\plan-performance-dashboard-ekleme.md [\u00D6nizleme]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-06-20T20:02:47.41Z",
+              "EditorCaption": " [\u00D6nizleme]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PerformanceDashboardWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\elevator_last2\\ElevatorSimulationLast-main\\elevator_simulation\\Views\\PerformanceDashboardWindow.xaml",
+              "RelativeDocumentMoniker": "elevator_simulation\\Views\\PerformanceDashboardWindow.xaml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\elevator_last2\\ElevatorSimulationLast-main\\elevator_simulation\\Views\\PerformanceDashboardWindow.xaml",
+              "RelativeToolTip": "elevator_simulation\\Views\\PerformanceDashboardWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-20T20:00:35.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\elevator_last2\\ElevatorSimulationLast-main\\elevator_simulation\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "elevator_simulation\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\elevator_last2\\ElevatorSimulationLast-main\\elevator_simulation\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "elevator_simulation\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAALgCAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T20:02:00.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PerformanceMetrics.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\elevator_last2\\ElevatorSimulationLast-main\\elevator_simulation\\Models\\PerformanceMetrics.cs",
+              "RelativeDocumentMoniker": "elevator_simulation\\Models\\PerformanceMetrics.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\elevator_last2\\ElevatorSimulationLast-main\\elevator_simulation\\Models\\PerformanceMetrics.cs",
+              "RelativeToolTip": "elevator_simulation\\Models\\PerformanceMetrics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T19:59:17.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\elevator_last2\\ElevatorSimulationLast-main\\elevator_simulation\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "elevator_simulation\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\elevator_last2\\ElevatorSimulationLast-main\\elevator_simulation\\MainWindow.xaml",
+              "RelativeToolTip": "elevator_simulation\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-20T19:18:05.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PerformanceDashboardWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\elevator_last2\\ElevatorSimulationLast-main\\elevator_simulation\\Views\\PerformanceDashboardWindow.xaml.cs",
+              "RelativeDocumentMoniker": "elevator_simulation\\Views\\PerformanceDashboardWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\elevator_last2\\ElevatorSimulationLast-main\\elevator_simulation\\Views\\PerformanceDashboardWindow.xaml.cs",
+              "RelativeToolTip": "elevator_simulation\\Views\\PerformanceDashboardWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T20:01:01.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\elevator_last2\\ElevatorSimulationLast-main\\elevator_simulation\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "elevator_simulation\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\elevator_last2\\ElevatorSimulationLast-main\\elevator_simulation\\MainWindow.xaml.cs",
+              "RelativeToolTip": "elevator_simulation\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T19:37:55.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "elevator_simulation.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\elevator_last2\\ElevatorSimulationLast-main\\elevator_simulation\\elevator_simulation.csproj",
+              "RelativeDocumentMoniker": "elevator_simulation\\elevator_simulation.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\elevator_last2\\ElevatorSimulationLast-main\\elevator_simulation\\elevator_simulation.csproj",
+              "RelativeToolTip": "elevator_simulation\\elevator_simulation.csproj",
+              "ViewState": "AgIAAAoAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-20T19:38:00.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\elevator_last2\\ElevatorSimulationLast-main\\elevator_simulation\\App.xaml.cs",
+              "RelativeDocumentMoniker": "elevator_simulation\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\elevator_last2\\ElevatorSimulationLast-main\\elevator_simulation\\App.xaml.cs",
+              "RelativeToolTip": "elevator_simulation\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T19:38:32.226Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
